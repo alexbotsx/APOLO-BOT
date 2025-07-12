@@ -23,7 +23,7 @@ ${tradutor.texto1[1]}
 
 2.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓`},
+    'document': {url: `https://github.com/BrunoSobrino/APOLO BOT`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -32,7 +32,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓',
+        'mediaUrl': 'https://github.com/BrunoSobrino/APOLO BOT',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
